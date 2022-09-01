@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding/csgo/sleep
 - 🌱 I’m currently learning flink..
 - 💞️ I’m looking to collaborate on java..
-- 📫 How to reach me ? zjj20001031@foxmail.com
+- 📫 How to reach me ? zjj20001031@foxmail.com  or  gugezhang872@gmail.com
 
 <!---
 Hosh666888/Hosh666888 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
